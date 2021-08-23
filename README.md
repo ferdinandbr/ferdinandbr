@@ -28,6 +28,9 @@
 
 ![Fernando Github stats](https://github-readme-stats.vercel.app/api?username=ferdinandbr&hide=prs,issues&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinandbr&layout=compact&theme=dark)](https://github.com/ferdinandbr/github-readme-stats)
+
+
 #### 🌠 Social networks
 
 <a href="https://www.linkedin.com/in/fernando-lima-a33409219//"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
