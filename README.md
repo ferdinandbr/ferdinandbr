@@ -7,6 +7,8 @@
 [![Visits Badge](https://badges.pufler.dev/visits/ferdinandbr/ferdinandbr?style=for-the-badge)](https://github.com/ferdinandbr/ferdinandbr)
 ![Repos Badge](https://badges.pufler.dev/repos/ferdinandbr?style=for-the-badge)
 
+<img alt="Most used languagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdinandbr&layout=compact&theme=dark" />
+
 #### 🚀 Languages and tools:
 <p>
 
@@ -26,7 +28,7 @@
 
 #### 💻 Open Source Work Stats
 
-![Everton Github stats](https://github-readme-stats.vercel.app/api?username=ferdinandbr&hide=prs,issues&show_icons=true&theme=dark)
+![Fernando Github stats](https://github-readme-stats.vercel.app/api?username=ferdinandbr&hide=prs,issues&show_icons=true&theme=dark)
 
 #### 🌠 Social networks
 
