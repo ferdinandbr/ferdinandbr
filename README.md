@@ -1,28 +1,24 @@
-### Hi there, my name is Everton 🚀
+### Hi there, my name is Fernando 🚀
 
 #### 👋 Introduction
 
-##### I am a front-end developer, Computer Technician, technology lover and passionate about code. I currently work at Agility Gestão de Frotas.
+##### I'm a Systems Analyst and I work as a backend developer.
 
-[![Visits Badge](https://badges.pufler.dev/visits/tieverton/tieverton?style=for-the-badge)](https://github.com/tieverton/tieverton)
-![Repos Badge](https://badges.pufler.dev/repos/tieverton?style=for-the-badge)
+[![Visits Badge](https://badges.pufler.dev/visits/ferdinandbr/ferdinandbr?style=for-the-badge)](https://github.com/ferdinandbr/ferdinandbr)
+![Repos Badge](https://badges.pufler.dev/repos/ferdinandbr?style=for-the-badge)
 
 #### 🚀 Languages and tools:
 <p>
-<img src="https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=%f14e32"/>
-<img src="https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=%FFF"/>
-<img src="https://img.shields.io/badge/vercel%20-%23323330.svg?&style=for-the-badge&logo=vercel&logoColor=%fff"/>
-<img src="https://img.shields.io/badge/heroku%20-%23323330.svg?&style=for-the-badge&logo=heroku&logoColor=%79589F"/>
-  <img src="https://img.shields.io/badge/figma%20-%23323330.svg?&style=for-the-badge&logo=figma&logoColor=%FFF"/>
-<img src="https://img.shields.io/badge/netlify%20-%23323330.svg?&style=for-the-badge&logo=netlify&logoColor=%15847D"/>
-<img src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%f14e32"/>
-<img src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%3178c6"/>
-<img src="https://img.shields.io/badge/sass%20-%23323330.svg?&style=for-the-badge&logo=sass&logoColor=%bf4080"/>
-<img src="https://img.shields.io/badge/styledcomponents%20-%23323330.svg?&style=for-the-badge&logo=styled-components&logoColor=%fff"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%3178c6"/>
-<img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%61dafb"/>
-<img src="https://img.shields.io/badge/next%20-%23323330.svg?&style=for-the-badge&logo=next-js&logoColor=%23F7DF1E"/>
+
+<img src="https://img.shields.io/badge/php%20-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%f14e32"/>
+<img src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%f14e32"/>
+<img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%f14e32"/> 
+<img src="https://img.shields.io/badge/laravel%20-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=%f14e32"/>
+<img src="https://img.shields.io/badge/codeigniter%20-%23323330.svg?&style=for-the-badge&logo=codeigniter&logoColor=%f14e32"/>
+<img src="https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=%f14e32"/>
+<img src="https://img.shields.io/badge/postgres%20-%23323330.svg?&style=for-the-badge&logo=postgres&logoColor=%f14e32"/>
+<img src="https://img.shields.io/badge/gitlab%20-%23323330.svg?&style=for-the-badge&logo=gitlab&logoColor=%f14e32"/>
+
   </p>
 
 #### 💻 Open Source Work Stats
@@ -31,6 +27,6 @@
 
 #### 🌠 Social networks
 
-<a href="https://www.linkedin.com/in/evertonpinheiroti/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://instagram.com/evertonti"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:evertonpinheiroti@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/fernando-lima-a33409219//"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/naaandoaraujo"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:contato@fernandoaraujodev.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
